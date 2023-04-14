@@ -1,0 +1,4 @@
+<!-- Подключаем библиотеку QrCode.js -->
+<script type="text/javascript" src="<?php echo plugins_url('/qrcodejs/js/qrcode.min.js', __FILE__); ?>"></script>
+<!-- Подключаем файл qrcode-script.js -->
+<script type="text/javascript" src="<?php echo plugins_url('/qrcodejs/js/qrcode-script.js', __FILE__); ?>"></script>
